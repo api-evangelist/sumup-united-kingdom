@@ -1,0 +1,72 @@
+{
+    "name": "SumUp United Kingdom",
+    "description": "Accept all your credit card payments. SumUp's contactless EMV terminal will solve your payment needs for the next decade. Accept EMV chip, magstripe, and NFC payments with Apple or Android smartphone.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1525-sumup-united-kingdom.jpg",
+    "tags": [
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sumup-united-kingdom\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SumUp United Kingdom",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1525-sumup-united-kingdom.jpg",
+            "humanURL": "https:\/\/sumup.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sumup-united-kingdom-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sumup"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sumup"
+        },
+        {
+            "type": "Email",
+            "url": "support@sumup.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@sumup.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@sumup.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@sumup.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/sumup"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SumUp_UK"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sumup"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sumup.com\/api\/"
+        }
+    ]
+}
